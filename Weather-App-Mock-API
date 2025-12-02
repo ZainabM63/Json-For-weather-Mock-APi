@@ -1,0 +1,23 @@
+{
+  "Karachi": {
+    "temperature": "28°C",
+    "condition": "Sunny",
+    "humidity": "44%",
+    "wind": "12 km/h",
+    "icon": "wb_sunny"
+  },
+  "Lahore": {
+    "temperature": "25°C",
+    "condition": "Cloudy",
+    "humidity": "50%",
+    "wind": "9 km/h",
+    "icon": "cloud"
+  },
+  "Islamabad": {
+    "temperature": "22°C",
+    "condition": "Rainy",
+    "humidity": "70%",
+    "wind": "14 km/h",
+    "icon": "umbrella"
+  }
+}
