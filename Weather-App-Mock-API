@@ -1,23 +1,37 @@
 {
   "Karachi": {
-    "temperature": "28°C",
+    "temperature": "30°C",
     "condition": "Sunny",
-    "humidity": "44%",
-    "wind": "12 km/h",
+    "humidity": "40%",
+    "wind": "10 km/h",
     "icon": "wb_sunny"
   },
   "Lahore": {
-    "temperature": "25°C",
+    "temperature": "26°C",
     "condition": "Cloudy",
-    "humidity": "50%",
-    "wind": "9 km/h",
+    "humidity": "48%",
+    "wind": "12 km/h",
     "icon": "cloud"
   },
   "Islamabad": {
     "temperature": "22°C",
     "condition": "Rainy",
-    "humidity": "70%",
-    "wind": "14 km/h",
+    "humidity": "72%",
+    "wind": "15 km/h",
     "icon": "umbrella"
+  },
+  "Peshawar": {
+    "temperature": "29°C",
+    "condition": "Windy",
+    "humidity": "36%",
+    "wind": "18 km/h",
+    "icon": "air"
+  },
+  "Quetta": {
+    "temperature": "18°C",
+    "condition": "Cold",
+    "humidity": "55%",
+    "wind": "8 km/h",
+    "icon": "cloud"
   }
 }
