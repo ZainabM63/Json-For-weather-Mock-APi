@@ -89,9 +89,3 @@ https://raw.githubusercontent.com/ZainabM63/Json-For-weather-Mock-APi/main/Weath
 - To use your own API or mock data, change the `jsonUrl` in `main.dart`.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
