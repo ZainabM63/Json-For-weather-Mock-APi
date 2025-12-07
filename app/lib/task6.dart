@@ -185,12 +185,9 @@ class WeatherScreen extends StatelessWidget {
                       value: weather["condition"]!,
   ),
                   ],
-                ),         ),
-            ),
-          ],
-        ),
-      ),
-    );
+      ),         ),
+            ), ],
+        ), ),   );
   }
 }
 
